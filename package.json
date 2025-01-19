@@ -1,0 +1,25 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "A sample JavaScript project for building and deploying with Jenkins.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "build": "react-scripts build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "sample",
+      "project",
+      "Jenkins"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-scripts": "^5.0.1"
+    },
+    "devDependencies": {}
+  }
+  
